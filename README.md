@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Lackronik
-- 👀 I’m interested in Network Engineering
-- 🌱 I’m using programming languages C\C++, Python/Bash
-- 💞️ I’m looking to collaborate on some network project
+- 👀 I interested in Network Engineering
+- 🌱 Using programming languages C\C++, Python/Bash
+- 🦀 Passionate about programming in the Rust language
+- 💞️ Looking to collaborate on some network project
 - 📫 How to reach me https://www.linkedin.com/in/alexandr-petreniuk-b05b16160/
 
 <!---
